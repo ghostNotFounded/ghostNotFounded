@@ -22,7 +22,6 @@ Here are some of the languages and technologies I'm familiar with:
   - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
   - ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
   - ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-  - ![Shadcn](https://img.shields.io/badge/-Shadcn-FF8800?style=flat-square)
 
 
 ## Connect with Me
