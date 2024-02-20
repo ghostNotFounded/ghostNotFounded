@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm primarily a frontend developer with a passion 
 - 🔭 I’m currently working on honing my frontend skills and diving deeper into backend development.
 - 🌱 I’m currently learning backend technologies, DevOps practices, mobile app development, and blockchain.
 - 💬 Ask me about anything related to frontend development or my journey into backend and other technologies!
-- 📫 How to reach me: [YourEmail@example.com](mailto:YourEmail@example.com)
+- 📫 How to reach me: [arsheya.par@gmail.com](arsheya.par@gmail.com) or [f20230304@pilani.bits-pilani.ac.in](f20230304@pilani.bits-pilani.ac.in)
 
 ## Tech Stack
 
