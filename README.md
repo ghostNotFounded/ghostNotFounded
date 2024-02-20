@@ -27,6 +27,6 @@ Here are some of the languages and technologies I'm familiar with:
 
 ## Connect with Me
 
-Let's connect and learn together! You can find me on [LinkedIn](https://www.linkedin.com/in/arsheya-singh-parmar-219b03291) or [Instagram]([https://www.instagram.com/ars.hheya/]).
+Let's connect and learn together! You can find me on [LinkedIn](https://www.linkedin.com/in/arsheya-singh-parmar-219b03291) or [Instagram](https://www.instagram.com/ars.hheya).
 
 Happy coding! 🚀
