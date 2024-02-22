@@ -29,9 +29,7 @@ Here are some of the languages and technologies I'm familiar with:
   - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
   - ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
   - ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-(https://camo.githubusercontent.com/aHR0cHM6Ly9leGFtcGxlLmNvbS9uZXh0anMtbG9nby5wbmc=)
-
+  - 
 ## Connect with Me
 
 Let's connect and learn together! You can find me on [LinkedIn](https://www.linkedin.com/in/arsheya-singh-parmar-219b03291) or [Instagram](https://www.instagram.com/ars.hheya).
