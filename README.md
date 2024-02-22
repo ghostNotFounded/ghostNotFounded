@@ -30,6 +30,7 @@ Here are some of the languages and technologies I'm familiar with:
   - ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
   - ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
+(https://camo.githubusercontent.com/aHR0cHM6Ly9leGFtcGxlLmNvbS9uZXh0anMtbG9nby5wbmc=)
 
 ## Connect with Me
 
