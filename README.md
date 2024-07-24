@@ -24,6 +24,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,yarn,bun,obsidian,git,github,codepen,docker,figma,firebase,bootstrap,blender,arduino,postman,autocad,materialui,notion,ps,raspberrypi,regex,robloxstudio,vercel,vscode" />
+    <img src="https://skillicons.dev/icons?i=npm,yarn,bun,obsidian,git,github,codepen,docker,figma,firebase,bootstrap,blender,arduino,postman,autocad,materialui,notion,ps,raspberrypi,regex,robloxstudio,vercel,vscode,vite" />
   </a>
 </p>
