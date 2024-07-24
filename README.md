@@ -2,9 +2,9 @@
 
 **`Digital Craftsman (Developer/Photographer)`**
 
-<p align="center" style="font-family: Roboto">
+<span align="center" style="font-family: Roboto">
   hey there 👋🏼 welcome to my github!!! I'm a Robotics Enthusiast and Frontend developer (and part-time designer :] ). Thanks ig.
-</p>
+</span>
 
 <p align="center">
   Lnaguages I know:
