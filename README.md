@@ -6,7 +6,7 @@
   hey there 👋🏼 welcome to my github!!! I'm a Robotics Enthusiast and Frontend developer (and part-time designer :] ). I enjoy problem solving a little bit of maths a litle bit of physics and overall engineering. Exploring AIML and photography ryt now.
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Frontend+developer+/+designer)](https://git.io/typing-svg)
 
 <p align="center">
   Lnaguages I know:
