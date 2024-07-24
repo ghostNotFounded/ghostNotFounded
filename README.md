@@ -3,7 +3,7 @@
 **`Digital Craftsman (Developer/Photographer)`**
 
 <span align="center" style="font-family: Roboto">
-  hey there 👋🏼 welcome to my github!!! I'm a Robotics Enthusiast and Frontend developer (and part-time designer :] ). Thanks ig.
+  hey there 👋🏼 welcome to my github!!! I'm a Robotics Enthusiast and Frontend developer (and part-time designer :] ). I enjoy problem solving a little bit of maths a litle bit of physics and overall engineering. Exploring AIML and photography ryt now.
 </span>
 
 <p align="center">
