@@ -1,10 +1,10 @@
-# 📸 ARSHEYA SINGH
+# 📸 ARSHEYA SINGH PARMAR
 
 **`Digital Craftsman (Developer/Photographer)`**
 
-<span align="center" style="font-family: Roboto">
+<p style="text-align: center;">
   hey there 👋🏼 welcome to my github!!! I'm a Robotics Enthusiast and Frontend developer (and part-time designer :] ). I enjoy problem solving a little bit of maths a litle bit of physics and overall engineering. Exploring AIML and photography ryt now.
-</span>
+</p>
 
 <p align="center">
   Lnaguages I know:
