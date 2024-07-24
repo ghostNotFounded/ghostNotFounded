@@ -12,10 +12,18 @@
   hey there 👋🏼 welcome to my github!!! I'm a Robotics Enthusiast and Frontend developer (and part-time designer :] ). I enjoy problem solving a little bit of maths a litle bit of physics and overall engineering. Exploring AIML and photography ryt now.
 </p>
 
-### Languages and tools I know:
+### Languages and frameworks I know/use:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,react,vite,nextjs,npm,yarn,bun,c,cpp,blender,bootstrap,codepen,docker,express,figma,firebase,nodejs,git,github,java,python,latex,obsidian" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,react,nextjs,c,cpp,exprese,nodejs,java,python,latex" />
+  </a>
+</p>
+
+### Other tools I use:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,yarn,bun,obsidian,git,github,codepen,docker,figma,firebase,bootstrap,blender" />
   </a>
 </p>
