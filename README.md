@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20developer%20/%20designer;Always%20learning%20new%20things;Robotics%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=00FFFF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-<p style="text-align: center;">
+<p align="center">
   hey there 👋🏼 welcome to my github!!! I'm a Robotics Enthusiast and Frontend developer (and part-time designer :] ). I enjoy problem solving a little bit of maths a litle bit of physics and overall engineering. Exploring AIML and photography ryt now.
 </p>
 
