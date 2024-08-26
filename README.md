@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,react,nextjs,c,cpp,express,nodejs,java,python,latex,mongodb,prisma,py,pytorch,redux,tensorflow,threejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,react,nextjs,c,cpp,express,nodejs,java,python,mongodb,prisma,py,pytorch,redux,tensorflow,threejs" />
   </a>
 </p>
 
@@ -24,6 +24,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,yarn,bun,obsidian,git,github,codepen,docker,figma,firebase,bootstrap,blender,arduino,postman,autocad,materialui,notion,ps,raspberrypi,regex,robloxstudio,vercel,vscode,vite" />
+    <img src="https://skillicons.dev/icons?i=npm,yarn,bun,git,github,docker,figma,firebase,bootstrap,blender,arduino,postman" />
   </a>
 </p>
